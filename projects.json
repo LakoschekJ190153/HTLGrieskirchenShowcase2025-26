@@ -82,5 +82,12 @@
     "author": "Noah Aspöck",
     "year": "2025_WS",
     "status": -1
+  },
+  {
+    "title": "Pokemon Defender",
+    "folder": "PokemonDefender",
+    "author": "San Diego Friedwagner",
+    "year": "2025_WS",
+    "status": 1
   }
 ]
